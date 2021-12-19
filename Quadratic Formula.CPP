@@ -27,4 +27,6 @@ int main() {
   // Outputting the roots
   std::cout << "root 1 is " << root1 << "\n";
   std::cout << "root 2 is " << root2 << "\n";
+  
+  return 0;
 }
